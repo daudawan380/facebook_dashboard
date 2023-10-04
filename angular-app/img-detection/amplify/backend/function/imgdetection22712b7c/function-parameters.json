@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "auth": {
+      "imgdetection05d84463": [
+        "create",
+        "read"
+      ]
+    },
+    "storage": {
+      "s3ForRekognition": [
+        "create",
+        "read"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

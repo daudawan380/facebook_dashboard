@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-imgdetection-dev-184222-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217127050792:role/amplify-imgdetection-dev-184222-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217127050792:role/amplify-imgdetection-dev-184222-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-imgdetection-dev-184222-deployment",
+      "UnauthRoleName": "amplify-imgdetection-dev-184222-unauthRole",
+      "StackName": "amplify-imgdetection-dev-184222",
+      "StackId": "arn:aws:cloudformation:us-east-1:217127050792:stack/amplify-imgdetection-dev-184222/ba042480-45a8-11ee-96f7-0e8d5aaebaf3",
+      "AmplifyAppId": "d1636uktpqhz0q"
+    },
+    "categories": {
+      "auth": {
+        "imgdetection05d84463": {},
+        "userPoolGroups": {}
+      },
+      "storage": {
+        "s3ForRekognition": {}
+      },
+      "function": {
+        "imgdetection22712b7c": {},
+        "imgdetectionc5db7b59": {}
+      }
+    }
+  }
+}
